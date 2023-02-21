@@ -1,5 +1,5 @@
-# Portfolio
-Summary of work
+# Portfolio: Summary of Work
+[Click here to view this page in a better, wider and "fullscreen" way.](https://github.com/hdinhof1/Portfolio/blob/main/README.md)
 
 ### Job History:
 Almost 6 years of professional experience working in Mobile Applications.
@@ -109,7 +109,10 @@ UI Screenshots:
 
 + Developed push notification to support iOS 9 and 10 notifications, including support for background push notifications. 
 + Streamlined process by overhauling new users login, login with Facebook, and signup flows.
++ Worked largely in Objective-C, wrote a ViewController in Swift that was backwards-compatible w/ Obj-C. 
++ Built a Snapchat-like keyboard toolbar to assist users to quickly add invites for friends.
 + Redeveloped the Home Screen to support the different membership levels.
++ Made initial landing screen tutorial that explains the app.
 
 </details>
 
